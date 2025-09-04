@@ -13,7 +13,7 @@ class CuananCreateDemoTable extends Migration
      */
     public function up()
     {
-        Schema::create('Yes', function (Blueprint $table) {
+        Schema::create('Maoniakoangtable', function (Blueprint $table) {
             $table->id(); // Primary key (id)
             $table->string('first_name');
             $table->string('last_name');
