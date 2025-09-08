@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Scout Law</title>
+    <title>Scout Oath</title>
 </head>
 <body>
     <div id="app"></div>
