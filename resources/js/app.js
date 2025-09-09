@@ -185,3 +185,5 @@ function App() {
 }
 
 ReactDOM.createRoot(document.getElementById("app")).render(<App />);
+
+console.log("Laravel Webpack Mix is running!");
